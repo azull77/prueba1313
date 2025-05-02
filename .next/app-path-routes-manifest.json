@@ -1,12 +1,12 @@
 {
-  "/query/route": "/query",
-  "/seed/route": "/seed",
   "/_not-found/page": "/_not-found",
+  "/seed/route": "/seed",
+  "/query/route": "/query",
   "/login/page": "/login",
   "/page": "/",
-  "/dashboard/invoices/create/page": "/dashboard/invoices/create",
   "/dashboard/customers/page": "/dashboard/customers",
+  "/dashboard/invoices/create/page": "/dashboard/invoices/create",
   "/dashboard/invoices/[id]/edit/page": "/dashboard/invoices/[id]/edit",
-  "/dashboard/(overview)/page": "/dashboard",
-  "/dashboard/invoices/page": "/dashboard/invoices"
+  "/dashboard/invoices/page": "/dashboard/invoices",
+  "/dashboard/(overview)/page": "/dashboard"
 }

@@ -1,4 +1,4 @@
-// File: /home/josedev/Escritorio/proyectos/nextjs_curso/nextjs-dashboard/app/login/page.tsx
+// File: C:\Users\henrr\Downloads\curso-nextjs-main\curso-nextjs-main\app\login\page.tsx
 import * as entry from '../../../../app/login/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

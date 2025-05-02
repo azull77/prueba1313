@@ -1,4 +1,4 @@
-// File: /home/josedev/Escritorio/proyectos/nextjs_curso/nextjs-dashboard/app/query/route.ts
+// File: C:\Users\henrr\Downloads\curso-nextjs-main\curso-nextjs-main\app\query\route.ts
 import * as entry from '../../../../app/query/route.js'
 import type { NextRequest } from 'next/server.js'
 
